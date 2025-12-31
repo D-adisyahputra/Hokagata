@@ -3,7 +3,7 @@
 <head>
     <title>Cetak Laporan</title>
     <base href="<?php echo base_url() ?>">
-    <link rel="shortcut icon" href="<?php echo base_url() . 'assets/assets-landing/image/icon-2.png' ?>">
+    <link rel="shortcut icon" href="<?php echo base_url() . 'assets/assets-landing/image/icon-11.png' ?>">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- bootstrap 3.0.2 -->
     <style>
