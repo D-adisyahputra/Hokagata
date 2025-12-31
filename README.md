@@ -12,12 +12,9 @@ Project Proyek Perangkat Lunak untuk tugas UAS.
 
 ## 🔑 Info Login (Untuk Dosen/Testing)
 
-- **Admin:** username: admin@gmail.com
-  password: password
-- **User:** username: customer@gmail.com
-  password: password
-- **Owner:** username: owner@gmail.com
-  password: password
+- **Admin:** username: admin@gmail.com | password: password
+- **User:** username: customer@gmail.com | password: password
+- **Owner:** username: owner@gmail.com | password: password
 - **Base URL:** localhost/hokagata
 - **Database:** Import file SQL yang ada di folder database.
 
